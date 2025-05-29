@@ -4,13 +4,12 @@ and predicts emotions like **Happy, Sad, Angry, Surprise, Neutral**, etc.
 
 ## 📁 Project Structure
 Emotion-Recognition-Project/
-│
-├── README.md <- Project description (this file)
-├── requirements.txt <- List of dependencies
-├── notebooks/ <- Google Colab training notebook (.ipynb)
-├── app/ <- FastAPI + Streamlit and Anvil interface
-├── images/ <- Screenshots (UI, accuracy, loss, confusion matrix)
-├── src/ <- Python source code (utils, preprocessing)
+ - README.md <- Project description (this file)
+ - requirements.txt <- List of dependencies
+ - notebooks/ <- Google Colab training notebook (.ipynb)
+ - app/ <- FastAPI + Streamlit and Anvil interface
+ - images/ <- Screenshots (UI, accuracy, loss, confusion matrix)
+ - src/ <- Python source code (utils, preprocessing)
 
 ## 🚀 Features
 - Deep learning model (CNN) for emotion classification
