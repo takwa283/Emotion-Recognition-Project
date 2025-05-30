@@ -1,6 +1,6 @@
 # Emotion Recognition Project
-This project is a facial emotion recognition system that combines a deep learning model with a user interface using **FastAPI**, **Streamlit**, and optionally **Anvil**. The model is trained on the KDEF dataset 
-and predicts emotions like **Happy, Sad, Angry, Surprise, Neutral**, etc.
+This project is a facial emotion recognition system that combines a deep learning model with a user interface using FastApi,Streamlit, and optionally Anvil . The model is trained on the KDEF dataset 
+and predicts emotions.
 
 ## 📁 Project Structure
 Emotion-Recognition-Project/
